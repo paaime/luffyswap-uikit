@@ -2067,14 +2067,14 @@ var socials = [
         items: [
             {
                 label: "Announcements",
-                href: "https://t.me/PastaFinanceAnnouncements",
+                href: "https://t.me/luffyswap",
             }
         ],
     },
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/pastafinance",
+        href: "https://twitter.com/luffyswap",
     },
 ];
 var MENU_HEIGHT = 64;
