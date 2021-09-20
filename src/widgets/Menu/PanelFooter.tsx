@@ -77,6 +77,7 @@ const PanelFooter: React.FC<Props> = ({
 
   return (
     <Container>
+      <img src="https://rugdoc.io/assets/2021/06/rugdoc-review-badge-with-glow.png" alt="rugdoc"/>
       <SocialEntry>
         {cakePriceUsd ? (
           <PriceLink href={priceLink} target="_blank">
