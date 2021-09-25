@@ -2055,6 +2055,10 @@ var socials = [
             {
                 label: "Announcements",
                 href: "https://t.me/luffyswapfinance",
+            },
+            {
+                label: "Announcements",
+                href: "https://t.me/luffyswap_official",
             }
         ],
     },

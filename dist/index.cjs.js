@@ -2066,8 +2066,12 @@ var socials = [
         icon: "TelegramIcon",
         items: [
             {
-                label: "Announcements",
+                label: "Chat",
                 href: "https://t.me/luffyswapfinance",
+            },
+            {
+                label: "Announcements",
+                href: "https://t.me/luffyswap_official",
             }
         ],
     },
